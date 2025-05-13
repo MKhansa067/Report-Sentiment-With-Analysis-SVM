@@ -1,1 +1,2 @@
-# Report-Sentiment-With-Analysis-SVM  
+# Laporan: Analisis Sentimen  
+Analisis sentimen adalah proses otomatisasi untuk menentukan opini atau perasaan pengguna terhadap suatu topik melalui teks. Salah satu metode yang banyak digunakan dalam analisis sentimen adalah Support Vector Machine (SVM). Laporan ini membahas implementasi SVM untuk klasifikasi sentimen menggunakan dua skrip Python: sentiment_analysis_SVM.py dengan dataset yang digunakan adalah dataset dari file test.csv dan train.csv, dan SVM-checkpoint.py dengan dataset yang digunakan adalah Polarity Dataset v2.0 dari Cornell University dan dataset dari file Training.txt.
